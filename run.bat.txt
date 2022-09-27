@@ -1,0 +1,2 @@
+cd C:\Users\V S TECHNOLOGIES\git\37frame\com.crm.framework.SDET37
+mvn clean install

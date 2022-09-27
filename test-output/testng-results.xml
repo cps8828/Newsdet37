@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[CreateOrganizationWithIndustryAndTypeTest is pass]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-09-22T17:28:57 IST" name="Default suite" finished-at="2022-09-22T17:31:26 IST" duration-ms="149215">
+    <groups>
+    </groups>
+    <test started-at="2022-09-22T17:28:57 IST" name="Default test" finished-at="2022-09-22T17:31:26 IST" duration-ms="149215">
+      <class name="com.crm.createOrganisation.CreateOrganizationWithIndustryAndTypeTest">
+        <test-method is-config="true" signature="dbConfig()[pri:0, instance:com.crm.createOrganisation.CreateOrganizationWithIndustryAndTypeTest@1ed6388a]" started-at="2022-09-22T17:28:57 IST" name="dbConfig" finished-at="2022-09-22T17:28:57 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dbConfig -->
+        <test-method is-config="true" signature="launchTheBrowser()[pri:0, instance:com.crm.createOrganisation.CreateOrganizationWithIndustryAndTypeTest@1ed6388a]" started-at="2022-09-22T17:28:59 IST" name="launchTheBrowser" finished-at="2022-09-22T17:29:51 IST" duration-ms="51937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchTheBrowser -->
+        <test-method is-config="true" signature="loginToAppln()[pri:0, instance:com.crm.createOrganisation.CreateOrganizationWithIndustryAndTypeTest@1ed6388a]" started-at="2022-09-22T17:29:51 IST" name="loginToAppln" finished-at="2022-09-22T17:30:23 IST" duration-ms="32053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToAppln -->
+        <test-method signature="createOrganizationWithIndustryAndTypeTest()[pri:0, instance:com.crm.createOrganisation.CreateOrganizationWithIndustryAndTypeTest@1ed6388a]" started-at="2022-09-22T17:30:23 IST" name="createOrganizationWithIndustryAndTypeTest" finished-at="2022-09-22T17:31:20 IST" duration-ms="57157" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[CreateOrganizationWithIndustryAndTypeTest is pass]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createOrganizationWithIndustryAndTypeTest -->
+        <test-method is-config="true" signature="logoutFromAppln()[pri:0, instance:com.crm.createOrganisation.CreateOrganizationWithIndustryAndTypeTest@1ed6388a]" started-at="2022-09-22T17:31:20 IST" name="logoutFromAppln" finished-at="2022-09-22T17:31:26 IST" duration-ms="5418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutFromAppln -->
+        <test-method is-config="true" signature="closeTheBrowser()[pri:0, instance:com.crm.createOrganisation.CreateOrganizationWithIndustryAndTypeTest@1ed6388a]" started-at="2022-09-22T17:31:26 IST" name="closeTheBrowser" finished-at="2022-09-22T17:31:26 IST" duration-ms="578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheBrowser -->
+        <test-method is-config="true" signature="closeDBconfig()[pri:0, instance:com.crm.createOrganisation.CreateOrganizationWithIndustryAndTypeTest@1ed6388a]" started-at="2022-09-22T17:31:28 IST" name="closeDBconfig" finished-at="2022-09-22T17:31:28 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDBconfig -->
+      </class> <!-- com.crm.createOrganisation.CreateOrganizationWithIndustryAndTypeTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
